@@ -172,11 +172,11 @@ document.addEventListener('DOMContentLoaded', function() {
     new Chart(facEventsCtx, {
       type: 'bar',
       data: {
-        labels: ['Dr. Zamir Ahmad Ansari', 'Dr. Mohan Bansal'],
+        labels: ['Dept. of IT Cumulative Total'],
         datasets: [{
-          label: 'Conferences, FDPs & Workshops',
-          data: [10, 5],
-          backgroundColor: ['#003366', '#FF6B35'],
+          label: 'Conferences, FDPs & Workshops Target Events',
+          data: [20],
+          backgroundColor: ['#003366'],
           borderRadius: 8, borderSkipped: false
         }]
       },
@@ -187,7 +187,7 @@ document.addEventListener('DOMContentLoaded', function() {
           title: { display: false }
         },
         scales: {
-          x: { beginAtZero: true, ticks: { stepSize: 2, font: { family: 'Inter' } }, grid: { color: '#eef2f7' } },
+          x: { beginAtZero: true, max: 25, ticks: { stepSize: 5, font: { family: 'Inter' } }, grid: { color: '#eef2f7' } },
           y: { grid: { display: false }, ticks: { font: { family: 'Inter', size: 12, weight: '600' } } }
         }
       }
