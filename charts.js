@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
         labels: ['Journal\nPapers', 'Conference\nPapers', 'Book\nChapters', 'Patents\nFiled', 'Patent\nGranted'],
         datasets: [{
           label: 'Count (2025 – Till Date)',
-          data: [6, 11, 2, 4, 1],
+          data: [6, 12, 2, 4, 1],
           backgroundColor: ['#003366','#FF6B35','#D4A843','#2874a6','#2e7d32'],
           borderRadius: 8, borderSkipped: false
         }]
@@ -85,11 +85,11 @@ document.addEventListener('DOMContentLoaded', function() {
     new Chart(topperCtx, {
       type: 'bar',
       data: {
-        labels: ['Yash Thakur\n(IT 2024-28)', 'Harsh Munjal\n(IT 2024-28)', 'Aryan Sharma\n(IT 2025-29)', 'Tushar Gupta\n(IT 2023-27)'],
+        labels: ['Yash Thakur\n(IT 2024-28)', 'Harsh Munjal\n(IT 2024-28)', 'Akshat Bansal\n(IT 2024-28)', 'Tushar Gupta\n(IT 2023-27)', 'Aryan Sharma\n(IT 2025-29)'],
         datasets: [{
           label: 'Current CGPA',
-          data: [9.917, 9.875, 9.417, 9.700],
-          backgroundColor: ['#f0d78c','#D4A843','#FF6B35','#003366'],
+          data: [9.917, 9.875, 9.870, 9.700, 9.417],
+          backgroundColor: ['#f0d78c','#D4A843','#FF6B35','#d8461b','#003366'],
           borderRadius: 8, borderSkipped: false
         }]
       },
