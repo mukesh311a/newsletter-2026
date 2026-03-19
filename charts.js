@@ -165,4 +165,32 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     });
   }
+
+  // === Faculty Events Bar Chart ===
+  const facEventsCtx = document.getElementById('facultyEventsChart');
+  if (facEventsCtx) {
+    new Chart(facEventsCtx, {
+      type: 'bar',
+      data: {
+        labels: ['Dr. Zamir Ahmad Ansari', 'Dr. Mohan Bansal'],
+        datasets: [{
+          label: 'Conferences, FDPs & Workshops',
+          data: [10, 5],
+          backgroundColor: ['#003366', '#FF6B35'],
+          borderRadius: 8, borderSkipped: false
+        }]
+      },
+      options: {
+        responsive: true, indexAxis: 'y',
+        plugins: {
+          legend: { display: false },
+          title: { display: false }
+        },
+        scales: {
+          x: { beginAtZero: true, ticks: { stepSize: 2, font: { family: 'Inter' } }, grid: { color: '#eef2f7' } },
+          y: { grid: { display: false }, ticks: { font: { family: 'Inter', size: 12, weight: '600' } } }
+        }
+      }
+    });
+  }
 });
