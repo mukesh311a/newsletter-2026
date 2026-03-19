@@ -1,0 +1,150 @@
+P0: Event -1 
+TEAM MEMBERS:
+P1: 1. Poshika Bhatnagar (12312037) - IT
+P2: 2. Swati (12311060) - CSE A
+P3: 3. Aniket Rajak (12312013) - IT  
+P4: 4. Nitish Kumar Choubey (12312031) - IT
+P6: Hackathon Details: " Hack The Winter - The Second Wave (Angry Bird Edition)
+P7: Graphic Era Hill University (GEHU), Bhimtal "
+P9: Winning Title : BEST REVENUE MODEL
+P11: Project Details : 
+P12:     Project Name : " Elite Engineers "
+P13: A full-stack platform that helps you discover and evaluate top software engineers using real GitHub data, AI-powered compatibility scoring, and trust metrics.
+P14: Core Capabilities:
+P15: GitHub Integration: Automatically fetch and analyze real GitHub profiles
+P16: AI Scoring: Intelligent compatibility and trust score calculations
+P17: Real-Time Data: Live integration between frontend and backend (no dummy data)
+P18: Advanced Search: Filter engineers by skills, experience, and compatibility
+P19: Side-by-Side Comparison: Compare up to 3 engineers with visual analytics
+P20: Explainable AI: Understand why each engineer is recommended."
+P24: Event-2
+P26: TEAM MEMBERS:
+P27: Rohan Tewari (12412031) – IT
+P28: Siddharth Sahai (12412036) – IT
+P29: Nayan Prakash (12413042) – DSA
+P31: Hackathon Details:
+P32: Hack The Winter – The Second Wave
+P33: Graphic Era Hill University (GEHU), Bhimtal
+P36: Winning Title:
+P37: First Prize Winner
+P39: Project Details:
+P40: Project Name:
+P41: Ratelift
+P42: Description:
+P43: Ratelift is a causal inference–based problem practice platform designed to improve learning efficiency. The system analyzes learning patterns and suggests practice problems that help users focus on their conceptual gaps.
+P46: Core Capabilities:
+P47: * Learning Pattern Analysis: Identifies relationships between practice behavior and performance among many users.
+P48: * Targeted Practice Recommendation: Suggests problems based on conceptual weaknesses
+P49: * Adaptive Learning Flow: Guides users toward areas needing improvement
+P50: * Data-Driven Insights: Uses learning data to support more effective practice sessions
+P55: Event-3 
+P57: TEAM MEMBERS:
+P58: Aditya Kumar – CSE
+P60: Kashish Nandwani (12312039) – IT
+P62: Lovish Singla – CSE
+P64: Shivansh Agrawal(12312003) – IT
+P66: Hackathon Details:
+P67: " Hack The Winter – The Second Wave (Angry Bird Edition)
+P68: Graphic Era Hill University (GEHU), Bhimtal "
+P70: Winning Title:
+P71: ZERO TO DEPLOY AWARD
+P73: Project Details:
+P74: Project Name : " FlashSeat – High-Concurrency Ticket Booking System "
+P76: A high-throughput ticket booking platform designed to handle extreme flash-sale traffic using distributed locking, async workflows, and real-time reservation management.
+P78: Core Capabilities:
+P79: Redis-based Distributed Locking: Prevents duplicate seat allocation under heavy traffic
+P80: Time-Bound Reservations: Automatically releases seats if payment is not completed
+P81: High Concurrency Handling: Designed to handle thousands of simultaneous requests
+P82: Idempotent Payment System: Prevents multiple charges for the same booking
+P83: Async Event Processing: Smooth performance during traffic spikes
+P84: Fair Allocation Logic: Ensures equal chance for users during flash sales
+P85: Scalable Backend Design: Built to support real-world event booking platforms
+P86: Revenue-Ready Architecture: Supports commission models and organizer analytics
+P90: Event-4
+P92: Proud to share that Team Kanyarasi India secured 3rd Place at Bit By Bit, a 36-hour flagship National hackathon organized by IIIT Bhagalpur, winning a cash prize of ₹25,000.
+P93: 🏅 Winning Title :
+P94: 3rd Place – Bit By Bit Hackathon
+P95: 📍 Hackathon Details :
+P96: Bit By Bit – 36 Hour Flagship Hackathon
+P97: Organized by IIIT Bhagalpur
+P98: 💡 Project Details :
+P99: Project Name : "MindSight"
+P100: A complete digital mental wellness ecosystem designed to provide accessible, secure, and intelligent mental healthcare solutions.
+P101: 🚀 Core Capabilities:
+P102: * SDA-Based Mental Health Assessments
+P103: Personalized mental health courses, stress-free games, and therapy recommendations based on assessment results.
+P104: * Integrated Therapist Booking System
+P105: Video / Chat / Call sessions with therapist ratings, availability tracking, and secure payment integration.
+P106: * Emotional Voice Logging
+P107: Web-based emotional journaling and a custom one-click hardware device for instant emotional recording.
+P108: * ML-Based Risk Detection System
+P109: Analyzes emotional voice recordings to detect high-risk patterns.
+P110: Automatically triggers alerts to:
+P111: Assigned therapists
+P112: Registered family members
+P113: National helplines
+P114: * Secure QR-Based Prescription System
+P115: After each session, therapists generate digital prescriptions containing:
+P116: Patient photo
+P117: Medication details
+P118: When scanned, the QR displays:
+P119: “Please hand over medicines to the person in the photo only.”
+P120: This ensures identity verification, prevents misuse, and strengthens trust in the care process.
+P121: * Full-Stack + ML + IoT Integration
+P122: Complete architecture, ML pipelines, secure workflows, and IoT integration — all built, tested, and presented within 36 hours.
+P123: 👥 Team Members :
+P124: Ritheesh Reddy(cse)
+P125: Yuvan Sai Yegireddi(cse)
+P126: Charan Y(it)
+P127: Harshith Kanna(it)
+P128: Varun K R(cse)
+P129: Supradeep Reddy(cse)
+P133: Event-5
+P135: Problem Statement Title :
+P136: Hand Held Radio Set with Satellite Personal Tracking System
+P137: 📍 Hackathon Details :
+P138: Smart India Hackathon (SIH)
+P139: Problem Statement ID : SIH25255
+P140: Organization : Ministry of Home Affairs (MHA)
+P141: Department : Border Security Force (BSF)
+P142: Category : Hardware
+P143: 💡 Project Details :
+P144: We developed a multi-network handheld communication and tracking device designed to assist security personnel operating in remote and challenging terrains where traditional communication systems may fail.
+P145: 🚀 Core Capabilities :
+P146: * Integrated Communication and Tracking Device
+P147: Combines VHF radio communication and GPS-based location tracking into a single compact device, reducing the need to carry multiple equipment.
+P148: * Real-Time GPS Location Monitoring
+P149: Continuously tracks and transmits the exact location of field personnel during operations.
+P150: * Satellite-Based Location Transmission
+P151: When troops move beyond the VHF communication range, the device automatically sends location data using satellite communication, ensuring uninterrupted tracking.
+P152: * GSM Network Backup
+P153: In areas where cellular networks are available, the system can transmit location data via GSM, providing an additional layer of connectivity.
+P154: * Seamless Network Switching
+P155: The device intelligently switches between VHF, satellite, and GSM networks to maintain continuous communication and tracking.
+P156: * Operational Safety and Coordination
+P157: Enables command centers to monitor troop locations in real time, improving situational awareness, coordination, and response time during critical missions.
+P158: 🎯 Impact :
+P159: This solution aims to enhance operational efficiency and safety for BSF personnel by integrating communication and tracking into a single reliable device, especially useful in remote border areas and challenging terrains.
+P160: 👥 Team Members :
+P161: Harshith Kanna (IT)(12312004)
+P162: Yuvan Sai Y(cse)(12311049)
+P163: Ritheesh Reddy (cse)(12311025)
+P164: Y Sri Charan (it)(12312043)
+P165: E Tarun Kumar (it)(12312032)
+P166: Sai Prathiksha D(12411027)(cse)(2024-2028)
+
+=== TABLE 0 ===
+R0: ['']
+
+=== TABLE 1 ===
+R0: ['']
+R1: ['']
+
+=== TABLE 2 ===
+R0: ['']
+
+=== TABLE 3 ===
+R0: ['']
+
+=== TABLE 4 ===
+R0: ['']
